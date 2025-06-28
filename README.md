@@ -8,13 +8,13 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ### Home Page
 
-![Home Page 1](./previewshots/Home1.png)
+![Home Page 1](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home1.png)
 
 
-![Home Page 2](./previewshots/Home2.png)
+![Home Page 2](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home2.png)
 
 
-![Home Page 3](./previewshots/Home3.png)
+![Home Page 3](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home3.png)
 
 
 
@@ -25,7 +25,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ### Contest Page
 
-![Contest Page](./previewshots/raw//Contests.png)
+![Contest Page](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Contests.png)
 
 
 ### Rooms Page
