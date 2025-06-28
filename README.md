@@ -10,9 +10,8 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ![Home Page 1](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home1.png)
 
+![Home Page 2](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home2.png)
 
-
-![Home Page 3](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Home3.png)
 
 
 
