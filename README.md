@@ -20,12 +20,12 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ## Singup and Login
 
-![Signup](./previewshots/Auth1.png)
+![Signup](https://github.com/KeerthiMrunalini/ZCoder/raw/main/Auth1.png)
 
 
 ### Contest Page
 
-![Contest Page](./previewshots/Contests.png)
+![Contest Page](./previewshots/raw//Contests.png)
 
 
 ### Rooms Page
