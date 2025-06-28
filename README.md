@@ -27,32 +27,32 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ### Rooms Page
 
-![Rooms Page1](./previewshots/Rooms1.png)
+![Rooms Page1](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Rooms1.png)
 
 
-![Rooms Page2](./previewshots/Rooms2.png)
+![Rooms Page2](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Rooms2.png)
 
 
 ### Problems Page
 
-![Problems Page 1](./previewshots/Problems1.png)
+![Problems Page 1](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Problems1.png)
 
 
-![Problems Page 2](./previewshots/Problems2.png)
+![Problems Page 2](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Problems2.png)
 
 
-![Problems Page 3](./previewshots/Problems3.png)
+![Problems Page 3](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Problems3.png)
 
 
 ### Solutions
 
-![Solutions 1](./previewshots/Solutions1.png)
+![Solutions 1](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Solutions1.png)
 
 
-![Solutions 2](./previewshots/Solutions2.png)
+![Solutions 2](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Solutions2.png)
 
 
-![Solutions 3](./previewshots/Solutions3.png)
+![Solutions 3](https://github.com/KeerthiMrunalini/ZCoders/raw/main/Solutions3.png)
 
 
 ## Tech Stack
