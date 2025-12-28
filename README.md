@@ -40,7 +40,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 ![profile1](https://github.com/KeerthiMrunalini/ZCoder/blob/main/previewshots/Profile1%20(2).png)
 
 
-![profile2](./previewshots/Profile2(2).png)
+![profile2](https://github.com/KeerthiMrunalini/ZCoder/blob/main/previewshots/Profile2%20(2).png)
 
 
 ### Contest Page
