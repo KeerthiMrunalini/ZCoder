@@ -32,7 +32,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 ![Login](./previewshots/Auth3.png)
 
 
-![Welcome email](./previewshots/OTP2.jpg)
+![Welcome email](https://github.com/KeerthiMrunalini/ZCoder/blob/main/previewshots/OTP2.png)
 
 
 ### Profile Dashboard
