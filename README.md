@@ -37,10 +37,10 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ### Profile Dashboard
 
-![profile1](./previewshots/Profile1.png)
+![profile1](./previewshots/Profile1(2).png)
 
 
-![profile2](./previewshots/Profile2.png)
+![profile2](./previewshots/Profile2(2).png)
 
 
 ### Contest Page
