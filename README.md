@@ -26,7 +26,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 ![OTP verify](./previewshots/OTP2.png)
 
 
-![OTP email](./previewshots/OTP1.jpg)
+![OTP email](https://github.com/KeerthiMrunalini/ZCoder/blob/main/previewshots/OTP1.png)
 
 
 ![Login](./previewshots/Auth3.png)
