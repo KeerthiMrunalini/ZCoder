@@ -23,7 +23,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 ![Signup](./previewshots/Auth1.png)
 
 
-![OTP verify](./previewshots/Auth2.png)
+![OTP verify](./previewshots/OTP2.png)
 
 
 ![OTP email](./previewshots/OTP1.jpg)
@@ -37,10 +37,10 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 
 ### Profile Dashboard
 
-![Dashboard1](./previewshots/Profile1.png)
+![profile1](./previewshots/Profile1.png)
 
 
-![Dashboard2](./previewshots/Profile2.png)
+![profile2](./previewshots/Profile2.png)
 
 
 ### Contest Page
