@@ -94,7 +94,7 @@ ZCoder is a full-stack web application that allows users to practice coding prob
 - Nodemailer to send emails
 - JWT Authentication
 - Cloudinary API to store profile pics of users
-- Clist API to get data of upcomming contests
+- Clist API to get data of upcoming contests
 
 ## Features
 
